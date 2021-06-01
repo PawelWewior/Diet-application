@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="wzrost">Wzrost</string>
+    <string name="dieta_app">DIETA APP</string>
+    <string name="wiek">Wiek</string>
+    <string name="waga">Waga</string>
+    <string name="lista_posi_k_w">LISTA POSIŁKÓW</string>
+    <string name="tkanka_t_uszczowa">TKANKA TŁUSZCZOWA</string>
+    <string name="kalkulator_amr">KALKULATOR AMR</string>
+    <string name="kalkulator_whr">KALKULATOR WHR</string>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+</resources>
